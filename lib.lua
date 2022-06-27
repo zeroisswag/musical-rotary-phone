@@ -943,7 +943,7 @@ do
             --
             window:Watermark()
             window:KeybindsList()
-            window:Cursor()
+            --window:Cursor()
             --
             window:Fade()
         end
