@@ -941,7 +941,7 @@ do
             --
             library.shared.initialized = true
             --
-            window:Watermark()
+            --window:Watermark()
             window:KeybindsList()
             --window:Cursor()
             --
